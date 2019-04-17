@@ -10,3 +10,6 @@ Research Log
 
 
 -----------------------------------------------------------------Week 2-----------------------------------------------------------------
+
+--> During the creation of the instruction sets, a lot of choices were made. My initial thought for making a structure was to make it not too complicated. I choose pieces that were not very elaborate and kept the build. I wanted to make instructions that were similar to real Lego instructions, so I designed my set around that too. The document itself was very time-consuming as uploading pictures into it and editing their size and position took hours. I never realized how hard it was to describe how to attach two lego pieces together. It did eventually get done, and it looked pretty neat.
+--> My sense of the audience is the "average joe". No one like complicated or confusing instructions. I designed my whole instuction set around making it simple for many people to do. 
