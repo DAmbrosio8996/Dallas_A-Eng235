@@ -1,7 +1,7 @@
 Research Log
 
 
------------------------------------------------------------------Week 1-----------------------------------------------------------------
+---------------------------------------------------------------Week 1---------------------------------------------------------------
 
 
 --> My name is Dallas Ambrosio. I am currently taking English 235 to go towards my Associate's degree in Computer Network Engineering. I currently work for the Steilacoom Historical School District as an IT Technician. I already work with many documents that technical writers have written, but I also translate the jargon that my coworkers cannot convert into "normal" speech. When I close work orders, I am doing a bit of technical writing myself; I describe what I've done with the work, and how I've solved it.
@@ -16,7 +16,7 @@ Research Log
 
 
 
------------------------------------------------------------------Week 2-----------------------------------------------------------------
+---------------------------------------------------------------Week 2---------------------------------------------------------------
 
 
 --> During the creation of the instruction sets, a lot of choices were made. My initial thought for making a structure was to make it not too complicated. I choose pieces that were not very elaborate and kept the build. I wanted to make instructions that were similar to real Lego instructions, so I designed my set around that too. The document itself was very time-consuming as uploading pictures into it and editing their size and position took hours. I never realized how hard it was to describe how to attach two lego pieces together. It did eventually get done, and it looked pretty neat.
@@ -29,7 +29,7 @@ Research Log
 
 
 
------------------------------------------------------------------Week 3-----------------------------------------------------------------
+---------------------------------------------------------------Week 3---------------------------------------------------------------
 
 
 --> This week we attempted to compose a survey to send out to Pierce college that will get information on student's understanding of technology. One challenge in this project was that we needed to form questions that would get specific answers from the survey taker. They also had to be multiple choice. Collaboration was very hard for me this time around because of conflicting ideals between each other. I was trying to lead discussion in one way while others were trying to lead them in their ways. It's interesting to review each question in the process as we have to think if the question really fits what we're looking for. When working on this project, the sense of audience I got was to make it simple for them. The audience wants it to be short, easy to read, and have pre-determined choices.
@@ -40,7 +40,7 @@ Research Log
 
 
 
------------------------------------------------------------------Week 4-----------------------------------------------------------------
+---------------------------------------------------------------Week 4---------------------------------------------------------------
 
 
 --> I had found a video tutorial on research reports and to me that is easier to understand. Sometimes it's easier to understand someone explaining a concept to you rather that just reading it. Someone had already posted that. So, I found a different guide that is not a video, but it has a nice basic outline for analytical reports. It also goes over the focus on audiences. The link can be found here. http://www.stat.cmu.edu/~brian/701/notes/paper-structure.pdf
@@ -49,4 +49,4 @@ Research Log
 
 
 
------------------------------------------------------------------Week 5-----------------------------------------------------------------
+---------------------------------------------------------------Week 5---------------------------------------------------------------
