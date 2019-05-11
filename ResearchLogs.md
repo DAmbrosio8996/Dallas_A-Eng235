@@ -50,3 +50,16 @@ Research Log
 
 
 ---------------------------------------------------------------Week 5---------------------------------------------------------------
+
+
+--> This report was especially hard for me because it is not often that I have to create an anylytical report. All guides and online help was not too helpful as it only went over the concept of it. I have little time outside of school, so it was hard for me to even get any reviewable rough draft ready for Thursday. I am currently working really hard to make my report fit the guidelines we wer given
+
+--> Mitch seemed to like what I had down so far. That being my Memo of transmittal and Executive Summary. He said that it definitely touched on the concept of information competency and explains it very well. He suggested that I actually finish everything else.
+
+--> Now I need to finish the rest of the report. It will be a difficult task due to time constraints, but I need to write the intro, body, conclusion, bibliography, and the title and cover pages.
+
+--> I learned a bit about analytical research reports, which helped me understand the process of writing technical documents in new ways. I also learned that by doing the peer review and seeing how others perceive how the report needs to be written.
+
+
+
+---------------------------------------------------------------Week 6---------------------------------------------------------------
